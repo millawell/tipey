@@ -17,6 +17,10 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
+dependencies = [
+  'scipy',
+  'currencyconverter',
+]
 
 [project.urls]
 "Homepage" = "https://github.com/millawell/tipey"
